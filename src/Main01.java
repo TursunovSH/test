@@ -21,6 +21,7 @@ public class Main01 {
             pin = askNumber("Enter pin:", 1000,9999);
             if (pin != 8956) {
                 System.out.println(" Incorrect pin");
+                System.out.println( "chislo iz massiva");
             } else {
                 break;
             }
