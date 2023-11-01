@@ -19,7 +19,7 @@ public class Main01 {
         int pin;
         do {
             pin = askNumber("Enter pin:", 1000,9999);
-            if (pin != 8956) {
+            if (pin != 895655) {
                 System.out.println(" Incorrect pin");
             } else {
                 break;
