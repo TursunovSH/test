@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// metod,dobrij den!
 public class Main01 {
     public static int askNumber(String message, int min, int max) {
         Scanner scanner = new Scanner(System.in);
