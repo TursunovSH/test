@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
-public class Main02_18 {
-
-
+public class Main01 {
     public static int askNumber(String message, int min, int max) {
         Scanner scanner = new Scanner(System.in);
         System.out.println(message);
@@ -29,4 +27,7 @@ public class Main02_18 {
 
         } while (true);
     }
+
+
+
 }
